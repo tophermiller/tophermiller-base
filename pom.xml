@@ -41,7 +41,7 @@
  </build>
 <scm>
 	<connection>scm:git:git@github.com:tophermiller/tophermiller-base.git</connection>
-	<url>scm:git:git@github.com:tophermiller/tophermiller-base.git</url>
+	<url>https://github.com/tophermiller/tophermiller-base</url>
 	<developerConnection>scm:git:git@github.com:tophermiller/tophermiller-base.git</developerConnection>
   <tag>release 0.0.1</tag>
   </scm>

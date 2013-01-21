@@ -7,7 +7,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.tophermiller</groupId>
   <artifactId>tophermiller-base</artifactId>
-  <version>0.0.3-SNAPSHOT</version>
+  <version>0.0.3</version>
   <name>tophermiller-base</name>
   <description>Base and utility classes for tophermiller</description>
   <packaging>jar</packaging>
@@ -34,7 +34,7 @@
 	<connection>scm:git:git@github.com:tophermiller/tophermiller-base.git</connection>
 	<url>https://github.com/tophermiller/tophermiller-base</url>
 	<developerConnection>scm:git:git@github.com:tophermiller/tophermiller-base.git</developerConnection>
-    <tag>tophermiller-base-0.0.1</tag>
+    <tag>tophermiller-base-0.0.3</tag>
   </scm>
   <licenses>
       <license>
